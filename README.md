@@ -6,7 +6,7 @@ e Tainá Martins.
 de acesso a serviços e entretenimento.No nosso sistema, você pode encontrar pessoas ou convidar amigos para dividir gastos de forma segura. E o melhor: as cobranças são geradas automaticamente, evitando o desconforto de cobrar conhecidos.
 
 <P align="center"><B>Dados Coletados para Validação do DivideAqui:</B></P>
-
+<img src="Assets/grafico1.jpg">
 
 <P align="center"><B>Tecnologias Usadas:</B></P>
 <p align="center">
