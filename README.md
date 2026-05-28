@@ -1,21 +1,16 @@
-<table>
-  <tr>
-    <td>
-
 # <H1> DivideAqui - TCC 2026 </H1>
-<P>🚀 Equipe de desenvolvimento de TCC formada por Elis Brum, Enzo Vimercati, Frederico Abrantes,
-<BR>Marcos Mendes e Tainá Martins, focada na criação de <B>soluções web inovadoras e acessíveis</B>.</P>
+🚀 Equipe de desenvolvimento de TCC formada por Elis Brum, Enzo Vimercati, Frederico Abrantes, Marcos Mendes
+e Tainá Martins.
 
-<P>Qual problema o projeto resolve?</P>
+<P>O projeto <I>DivideAqui</I> nasceu com o objetivo de reduzir o impacto dos altos custos, oferecendo formas mais econômicas
+de acesso a serviços e entretenimento.No nosso sistema, você pode encontrar pessoas ou convidar amigos para dividir gastos de forma segura. E o melhor: as cobranças são geradas automaticamente, evitando o desconforto de cobrar conhecidos.
 
-<P>Objetivo do Projeto</P>
+<P align="center"><B>Dados Coletados para Validação do DivideAqui:</B></P>
 
-<P>Tecnologias Usadas</P>
 
-    </td>
+<P align="center"><B>Tecnologias Usadas:</B></P>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,figma,github" />
+</p>
 
-    <td>
-      <img src=".<img width="1654" height="1654" alt="iconeAzulEscuro" src="https://github.com/user-attachments/assets/f71e7ece-d2f6-4729-8620-831050d2b09b" />
-    </td>
-  </tr>
-</table>
+
